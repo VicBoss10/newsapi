@@ -1,0 +1,19 @@
+{
+    "title":"NotiApp",
+    "news": "Noticias",
+    "categories": "Categorias",
+    "categoryBusiness": "Negocios",
+    "categoryEntertainment": "Entretenimiento",
+    "categoryGeneral": "General",
+    "categoryHealth": "Salud",
+    "categoryScience": "Ciencia",
+    "categorySports": "Deportes",
+    "categoryTechnology": "Tecnología",
+    "about":"Acerca De",
+    "aboutProgrammer": "Acerca del programador",
+    "name": "Nombre: Víctor Narváez",
+    "mail": "Correo: Vicboss2002@gmail.com",
+    "role": "Rol: Flutter Developer",
+    "aboutApi": "Acerca de la Api",
+    "apiText": "Esta aplicación utiliza la API de NewsAPI para obtener las últimas noticias de diferentes categorías como negocios, entretenimiento, salud, tecnología, y más. La API proporciona información actualizada y confiable de múltiples fuentes de noticias reconocidas a nivel mundial."
+}

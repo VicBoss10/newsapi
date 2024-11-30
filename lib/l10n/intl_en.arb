@@ -1,0 +1,19 @@
+{
+    "title":"News App",
+    "news":"News",
+    "categories":"Categories",
+    "categoryBusiness": "Business",
+    "categoryEntertainment": "Entertainment",
+    "categoryGeneral": "General",
+    "categoryHealth": "Health",
+    "categoryScience": "Science",
+    "categorySports": "Sports",
+    "categoryTechnology": "Technology",
+    "about":"About",
+    "aboutProgrammer": "About the Programmer",
+    "name": "Name: Víctor Narváez",
+    "mail": "Mail: Vicboss2002@gmail.com",
+    "role": "Role: Flutter Developer",
+    "aboutApi": "About the Api",
+    "apiText" : "This app uses NewsAPI to get the latest news from different categories like business, entertainment, health, technology, and more. The API provides up-to-date and reliable information from multiple globally recognized news sources."
+}
